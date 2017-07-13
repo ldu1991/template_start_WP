@@ -1,0 +1,20 @@
+{
+  "name": "start",
+  "description": "no desd",
+  "main": "",
+  "authors": [
+    "Denis Lipatov"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "_normalize.scss": "^2.1.3"
+  }
+}

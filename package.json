@@ -1,0 +1,27 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Start pack for Front-end develop",
+  "author": "Denis Lipatov",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "latest",
+    "browser-sync": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-combine-mq": "latest",
+    "gulp-concat": "latest",
+    "gulp-csso": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-plumber": "latest",
+    "gulp-sass": "latest",
+    "gulp-sequence": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulp-update": "latest",
+    "gulp-update-modul": "latest",
+    "gulp-watch": "latest",
+    "gulp.spritesmith": "latest",
+    "imagemin-pngquant": "latest"
+  }
+}

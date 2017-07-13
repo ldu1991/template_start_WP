@@ -1,0 +1,52 @@
+//
+// Grid breakpoints
+//
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px
+) !default;
+
+//
+// Grid containers
+//
+$container-max-widths: (
+  sm: 540px,
+  md: 750px,
+  lg: 970px,
+  xl: 1170px
+) !default;
+
+//
+// Grid columns
+//
+$grid-columns:      12 !default;
+$grid-gutter-width: 30px !default;
+
+//
+// General colors
+//
+$body-bg: #FFF;
+$body-color: #000;
+$a-color: #000;
+$a-color-hover: #000;
+
+//
+// Font face
+//
+$thin: 100;
+$extra-light: 200;
+$light: 300;
+$regular: 400;
+$medium: 500;
+$semi-bold: 600;
+$bold: 700;
+$extra-bold: 800;
+$ultra-bold: 900;
+
+//
+// Basic font
+//
+$base-font-family: 'Open Sans';
